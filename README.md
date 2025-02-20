@@ -1,6 +1,6 @@
-# 🌳 DirectoryTree
+# 🌳 generateDirectoryTree
 
-**DirectoryTree** es una herramienta hecha en Java para generar e imprimir un árbol de directorios de cualquier carpeta especificada por el usuario. Ofrece la opción de excluir archivos o carpetas no deseadas mediante patrones personalizados.
+**generateDirectoryTree** es una herramienta hecha en Java para generar e imprimir un árbol de directorios de cualquier carpeta especificada por el usuario. Ofrece la opción de excluir archivos o carpetas no deseadas mediante patrones personalizados.
 
 ---
 
