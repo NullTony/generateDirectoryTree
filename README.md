@@ -21,7 +21,7 @@
 
 ## 📥 Instalación
 
-1. Clona este repositorio en tu máquina local:
+1. Clona este repositorio:
 ```bash
 git clone https://github.com/NullTony/generateDirectoryTree.git
 ```
